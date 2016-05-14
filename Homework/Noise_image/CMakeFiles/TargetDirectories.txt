@@ -1,0 +1,3 @@
+/home/shouzo/OpenCV_Programming_pages/Homework/Noise_image/CMakeFiles/edit_cache.dir
+/home/shouzo/OpenCV_Programming_pages/Homework/Noise_image/CMakeFiles/rebuild_cache.dir
+/home/shouzo/OpenCV_Programming_pages/Homework/Noise_image/CMakeFiles/Noise.dir

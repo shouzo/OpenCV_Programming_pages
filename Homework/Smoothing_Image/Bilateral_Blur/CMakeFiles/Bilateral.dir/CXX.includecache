@@ -11,6 +11,8 @@ iostream
 -
 vector
 -
+cstring
+-
 opencv2/imgproc/imgproc.hpp
 /home/shouzo/OpenCV_Programming_pages/Homework/Smoothing_Image/Bilateral_Blur/opencv2/imgproc/imgproc.hpp
 opencv2/imgcodecs.hpp
